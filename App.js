@@ -15,6 +15,16 @@ class App extends React.Component {
                         <Scene key={'home'} component={HomeForm}/>
                     </Scene>
                 </Router>
+				<View>
+				</View>
+				<View>
+				</View>
+				<View>
+				</View>
+				<View>
+				</View>
+				<View>
+				</View>
             </Provider>
         )
     }
